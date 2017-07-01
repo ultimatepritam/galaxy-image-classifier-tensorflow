@@ -19,9 +19,9 @@ Scientists can use this classifier to automatically label whether an image taken
 
 ##Results
 
-###Accuracy
+# Accuracy
 ![accuracy](screenshots/accuracy.png)
-###Test Elliptical Galaxy Image
+# Test Elliptical Galaxy Image
 ![accuracy](screenshots/test_el.png)
-###Test Spiral Galaxy Image
+# Test Spiral Galaxy Image
 ![accuracy](screenshots/test_sp.png)
